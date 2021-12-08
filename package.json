@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matiasvlevi/dannjs-drawing-detection-nn.git"
+    "url": "git+https://github.com/MouizGhouri/dannjs-drawing-detection-nn.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matiasvlevi/dannjs-drawing-detection-nn/issues"
+    "url": "https://github.com/MouizGhouri/dannjs-drawing-detection-nn/issues"
   },
-  "homepage": "https://github.com/matiasvlevi/dannjs-drawing-detection-nn#readme",
+  "homepage": "https://github.com/MouizGhouri/dannjs-drawing-detection-nn#readme",
   "dependencies": {
     "dannjs": "^2.4.0",
     "http": "^0.0.1-security",
