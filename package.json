@@ -1,0 +1,25 @@
+{
+  "name": "dannjs-drawing-detection-nn",
+  "version": "1.0.0",
+  "description": "A neural network implementation using the dannjs library and backpropagation.",
+  "main": "ai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasvlevi/dannjs-drawing-detection-nn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasvlevi/dannjs-drawing-detection-nn/issues"
+  },
+  "homepage": "https://github.com/matiasvlevi/dannjs-drawing-detection-nn#readme",
+  "dependencies": {
+    "dannjs": "^2.4.0",
+    "http": "^0.0.1-security",
+    "ndjson": "^2.0.0"
+  }
+}
